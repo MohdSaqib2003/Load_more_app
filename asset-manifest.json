@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Load_more_app/static/css/main.c591f450.css",
+    "main.js": "/Load_more_app/static/js/main.635d1174.js",
+    "index.html": "/Load_more_app/index.html",
+    "main.c591f450.css.map": "/Load_more_app/static/css/main.c591f450.css.map",
+    "main.635d1174.js.map": "/Load_more_app/static/js/main.635d1174.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c591f450.css",
+    "static/js/main.635d1174.js"
+  ]
+}
